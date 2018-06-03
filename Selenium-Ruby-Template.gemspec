@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "Selenium Ruby Unit Test Example"
   spec.description   = "Selenium Ruby Unit Test Example with Page Object Model"
-  spec.homepage      = "http://www.google.com"
+  spec.homepage      = "hhttps://github.com/sridharbandi/Selenium-Ruby-Template"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
